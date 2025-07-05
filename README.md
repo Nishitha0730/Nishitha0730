@@ -21,19 +21,19 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 ## 🛠️ Skills & Tools
 
 **Hardware Design**  
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="Altium"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/solidworks/solidworks-icon.svg" alt="SolidWorks"></code>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="24" height="24">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="24" height="24">
+<img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="Altium" width="24" height="24">
+<img src="https://www.vectorlogo.zone/logos/solidworks/solidworks-icon.svg" alt="SolidWorks" width="24" height="24">
 
 **Programming**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="24" height="24">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" height="24">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="24" height="24">
 
 **Web Technologies**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"></code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="24" height="24">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="24" height="24">
 
 ## 📈 GitHub Stats
 
