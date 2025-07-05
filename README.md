@@ -1,19 +1,58 @@
 <h1 align="center">Hi 👋, I'm Nishitha Wihala</h1>
-<h3 align="center">A passionate Electronic & Telecommunication Engineering</h3>
+<h3 align="center">Electronics & Telecommunication Engineer | Hardware Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitha0730&label=Profile%20views&color=0e75b6&style=flat" alt="nishitha0730" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishitha0730" alt="nishitha0730" /></a> </p>
-
-- 💬 Ask me about **SolidWorks, Altium**
-
-- 📫 How to reach me **nishithawihala30@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/nishitha0730">
+    <img src="https://komarev.com/ghpvc/?username=nishitha0730&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/nishitha0730?tab=followers">
+    <img src="https://img.shields.io/github/followers/nishitha0730?label=Follow&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishitha0730&show_icons=true&locale=en&layout=compact" alt="nishitha0730" /></p>
+I'm an Electronics and Telecommunication Engineering student passionate about:
+- PCB Design & Circuit Simulation
+- Embedded Systems Development
+- 3D Modeling & CAD Design
+- Signal Processing & Telecommunications
+
+## 🛠️ Skills & Tools
+
+**Hardware Design**  
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="Altium"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/solidworks/solidworks-icon.svg" alt="SolidWorks"></code>
+
+**Programming**  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+
+**Web Technologies**  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"></code>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true&langs_count=6" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:nishithawihala30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
