@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishitha Wihala</h1>
-<h3 align="center">Electronics & Telecommunication Engineer | Hardware Enthusiast</h3>
+<h3 align="center">Electronics & Telecommunication Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/nishitha0730">
