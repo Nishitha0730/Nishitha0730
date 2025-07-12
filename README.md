@@ -44,7 +44,7 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true&langs_count=6" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true&langs_count=7" />
 </p>
 
 ## 📫 Let's Connect
