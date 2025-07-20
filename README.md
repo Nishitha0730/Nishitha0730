@@ -13,6 +13,7 @@
 ## 🚀 About Me
 
 I'm an Electronics and Telecommunication Engineering student passionate about:
+- Machine Learning & AI
 - PCB Design & Circuit Simulation
 - Embedded Systems Development
 - 3D Modeling & CAD Design
