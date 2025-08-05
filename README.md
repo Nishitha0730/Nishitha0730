@@ -76,18 +76,6 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 ---
 
 <p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nishitha0730/nishitha0730/github-contribution-grid-snake/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nishitha0730/nishitha0730/github-contribution-grid-snake/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/nishitha0730/nishitha0730/github-contribution-grid-snake/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Grid"
-    />
-  </picture>
+  <img src="https://ghchart.rshah.org/nishitha0730" alt="Nishitha's GitHub Contributions" />
 </p>
+<p align="center">My GitHub Contribution History</p>
