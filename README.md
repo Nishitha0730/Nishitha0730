@@ -3,50 +3,64 @@
 
 <p align="center">
   <a href="https://github.com/nishitha0730">
-    <img src="https://komarev.com/ghpvc/?username=nishitha0730&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=nishitha0730&label=Profile%20views&color=0e75b6&style=flat" alt="nishitha0730" />
   </a>
   <a href="https://github.com/nishitha0730?tab=followers">
-    <img src="https://img.shields.io/github/followers/nishitha0730?label=Follow&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/nishitha0730?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
+
+---
 
 ## 🚀 About Me
 
-I'm an Electronics and Telecommunication Engineering student passionate about:
-- Machine Learning & AI
-- PCB Design & Circuit Simulation
-- Embedded Systems Development
-- 3D Modeling & CAD Design
-- Signal Processing & Telecommunications
+I’m a passionate **Machine Learning & Electronics Engineer** with expertise in:
+- **PCB Design & Hardware Prototyping** (Altium, KiCad)  
+- **IoT & Wireless Communication** (Bluetooth)  
+- **3D Modeling & CAD** (SolidWorks, Fusion 360)  
+- **Signal Processing** (MATLAB, Python)  
 
-## 🛠️ Skills & Tools
+  
+💬 **Ask Me About**: Arduino hacks, PCB debugging, or Python for hardware!  
 
-**Hardware Design**  
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="24" height="24">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="24" height="24">
-<img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="Altium" width="24" height="24">
-<img src="https://www.vectorlogo.zone/logos/solidworks/solidworks-icon.svg" alt="SolidWorks" width="24" height="24">
+---
 
-**Programming**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="24" height="24">
+## 🛠️ Tech Stack
 
-**Web Technologies**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="24" height="24">
+### **Hardware & Embedded**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Altium](https://img.shields.io/badge/-Altium-A5915F?style=for-the-badge&logo=Altium-Designer&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FFA116?style=for-the-badge&logo=Dassault-Systems&logoColor=black)
 
-## 📈 GitHub Stats
+### **Programming**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
+
+### **AI/ML & Data**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+
+---
+
+## 🏆 Achievements
+- 🥇 **Gold Badge in Python** on HackerRank  
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true&langs_count=7" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=nishitha0730&theme=radical&no-frame=true&margin-w=10" />
 </p>
+
+---
 
 ## 📫 Let's Connect
 
@@ -54,7 +68,16 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
   <a href="mailto:nishithawihala30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.hackerrank.com/yourprofile">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/nishitha0730/nishitha0730/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
