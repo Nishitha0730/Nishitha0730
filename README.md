@@ -14,14 +14,12 @@
 
 ## 🚀 About Me
 
-I’m a passionate **Machine Learning & Electronics Engineer** with experience in:
-- **PCB Design & Hardware Prototyping** (Altium, KiCad)  
-- **IoT & Wireless Communication** (Bluetooth)  
-- **3D Modeling & CAD** (SolidWorks, Fusion 360)  
-- **Signal Processing** (MATLAB, Python)  
-
-  
-💬 **Ask Me About**: Arduino hacks, PCB debugging, or Python for hardware!  
+I'm an Electronics and Telecommunication Engineering student passionate about:
+- Machine Learning & AI
+- PCB Design & Circuit Simulation
+- Embedded Systems Development
+- 3D Modeling & CAD Design
+- Signal Processing & Telecommunications
 
 ---
 
@@ -76,3 +74,7 @@ I’m a passionate **Machine Learning & Electronics Engineer** with experience i
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishitha0730/nishitha0730/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+</p>
