@@ -76,6 +76,14 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/nishitha0730" alt="Nishitha's GitHub Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">My GitHub Contribution History</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
