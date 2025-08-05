@@ -70,13 +70,9 @@ I’m a passionate **Machine Learning & Electronics Engineer** with experience i
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.hackerrank.com/yourprofile">
+  <a href="https://www.hackerrank.com/profile/nishithawihala30">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/nishitha0730/nishitha0730/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
