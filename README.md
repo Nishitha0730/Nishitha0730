@@ -57,7 +57,6 @@ I’m a passionate **Machine Learning & Electronics Engineer** with experience i
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=nishitha0730&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
