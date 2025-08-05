@@ -76,5 +76,5 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishitha0730/nishitha0730/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishitha0730&theme=github-compact" alt="Contribution Graph" />
 </p>
