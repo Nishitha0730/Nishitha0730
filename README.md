@@ -46,15 +46,15 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 - 🥇 **Gold Badge in Python** on HackerRank  
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true&langs_count=7" />
 </p>
 
 ---
@@ -75,6 +75,3 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishitha0730&theme=github-compact" alt="Contribution Graph" />
-</p>
