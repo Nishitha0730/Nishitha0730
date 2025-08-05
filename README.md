@@ -76,5 +76,5 @@ I'm an Electronics and Telecommunication Engineering student passionate about:
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishitha0730&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/nishitha0730" alt="Nishitha's GitHub Contributions" />
 </p>
