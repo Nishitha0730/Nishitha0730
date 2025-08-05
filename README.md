@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate **Machine Learning & Electronics Engineer** with expertise in:
+I’m a passionate **Machine Learning & Electronics Engineer** with experience in:
 - **PCB Design & Hardware Prototyping** (Altium, KiCad)  
 - **IoT & Wireless Communication** (Bluetooth)  
 - **3D Modeling & CAD** (SolidWorks, Fusion 360)  
