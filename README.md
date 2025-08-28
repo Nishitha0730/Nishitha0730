@@ -2,9 +2,6 @@
 <h3 align="center">Electronics & Telecommunication Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/nishitha0730">
-    <img src="https://komarev.com/ghpvc/?username=nishitha0730&label=Profile%20views&color=0e75b6&style=flat" alt="nishitha0730" />
-  </a>
   <a href="https://github.com/nishitha0730?tab=followers">
     <img src="https://img.shields.io/github/followers/nishitha0730?label=Followers&style=social" alt="GitHub followers" />
   </a>
