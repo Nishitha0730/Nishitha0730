@@ -1,75 +1,163 @@
-<h1 align="center">Hi 👋, I'm Nishitha Wihala</h1>
-<h3 align="center">Electronics & Telecommunication Engineer</h3>
+# <h1 align="center">Hi 👋, I'm Nishitha Wihala</h1>
+
+<h3 align="center">
+Embedded Systems • Digital Design • Electronics Engineering Student
+</h3>
 
 <p align="center">
-  <a href="https://github.com/nishitha0730?tab=followers">
-    <img src="https://img.shields.io/github/followers/nishitha0730?label=Followers&style=social" alt="GitHub followers" />
-  </a>
+Building hardware from digital logic to embedded firmware.
+</p>
+
+<p align="center">
+<a href="https://github.com/nishitha0730?tab=followers">
+<img src="https://img.shields.io/github/followers/nishitha0730?style=social" />
+</a>
+
+<a href="https://github.com/nishitha0730">
+<img src="https://komarev.com/ghpvc/?username=nishitha0730&label=Profile%20Views" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I'm an Electronics and Telecommunication Engineering student passionate about:
-- Software Engineering
-- Machine Learning & AI
-- PCB Design & Circuit Simulation
-- Embedded Systems Development
-- 3D Modeling & CAD Design
-- Signal Processing & Telecommunications
+I'm an Electronics & Telecommunication Engineering undergraduate with a strong interest in low-level hardware and embedded systems.
 
----
+I enjoy designing digital circuits, writing firmware in C, exploring FPGA development, and understanding how computers work from transistors to processors.
 
-## 🛠️ Tech Stack
+Currently focusing on:
 
-### **Hardware & Embedded**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Altium](https://img.shields.io/badge/-Altium-A5915F?style=for-the-badge&logo=Altium-Designer&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FFA116?style=for-the-badge&logo=Dassault-Systems&logoColor=black)
-
-### **Programming**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
-
-### **AI/ML & Data**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+- Embedded Systems
+- Digital Logic Design
+- STM32 Microcontrollers
+- Bare-Metal Programming
+- Computer Architecture
+- CMOS Circuit Design
+- PCB Design
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Gold Badge in Python** on HackerRank  
+# 🚀 Current Projects
+
+- 🔹 CMOS Memristor Emulator Simulation using LTspice
+- 🔹 STM32 Timer & PWM Projects
+- 🔹 Digital Design Practice using Tang Nano 9K FPGA
+- 🔹 Embedded C Programming
+
 ---
 
-## 📈 GitHub Stats
+# 🛠 Languages
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&hide_border=true" />
-</p>
+<p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true&langs_count=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab"/>
+
 </p>
 
 ---
 
-## 📫 Let's Connect
+# ⚡ Embedded & Hardware
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+</p>
+
+- STM32
+- UART
+- Timers
+- PWM
+- Bare-Metal Programming
+- Verilog HDL
+- FPGA Development
+
+---
+
+# 🔧 Design & Simulation Tools
+
+- LTspice
+- Altium Designer
+- SolidWorks
+- Vivado
+- Gowin IDE
+
+---
+
+# 📂 Featured Projects
+
+## 🔹 STM32 PWM Generator
+
+Implemented PWM generation using STM32 timer peripherals.
+
+Topics:
+
+- Timer Configuration
+- Duty Cycle Control
+- Frequency Adjustment
+
+---
+
+# 📖 Currently Learning
+
+- Computer Architecture
+- FPGA Design
+- Bare-Metal Embedded Systems
+- Advanced Verilog
+- Digital System Design
+- Low-Level C Optimization
+
+---
+
+# 🏆 Achievements
+
+🥇 Gold Badge in Python — HackerRank
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <a href="mailto:nishithawihala30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.hackerrank.com/profile/nishithawihala30">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitha0730&layout=compact&hide_border=true"/>
+
 </p>
 
 ---
 
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:nishithawihala30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nishithawihala30">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> "The best way to understand hardware is to build it."
+
+---
+
+⭐ Feel free to explore my repositories and follow my engineering journey.
