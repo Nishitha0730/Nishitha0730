@@ -55,30 +55,19 @@ I am particularly interested in bare-metal programming, PCB Design, computer arc
 
 ---
 
-## Selected Projects
-
-### STM32 Peripheral Development
-
-Bare-metal implementation of STM32 peripherals and drivers, including:
-
-* UART communication
-* I²C sensor interfacing
-* SPI communication
-* Hardware timers
-* PWM generation
-* Interrupt-based programming
-
-
 ## Education and Development
 
 **BSc (Undergraduate) — Electronics & Telecommunication Engineering**
 
 ---
 
-GitHub Activity
+## GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&hide_border=true" height="160" alt="GitHub statistics" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&hide_border=true" height="165" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishitha0730&hide_border=true" height="165" />
+</p>
 ---
 
 ## Connect
