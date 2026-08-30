@@ -2,7 +2,7 @@
 
 ### Electronics & Telecommunication Engineering Undergraduate
 
-**Embedded Systems | Digital Design | Computer Architecture**
+**Embedded Systems | Digital Design **
 
 I am an Electronics and Telecommunication Engineering undergraduate with a strong interest in embedded systems, digital hardware design, and low-level programming.
 
@@ -72,6 +72,12 @@ Bare-metal implementation of STM32 peripherals and drivers, including:
 ## Education and Development
 
 **BSc (Undergraduate) — Electronics & Telecommunication Engineering**
+
+---
+
+GitHub Activity
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishitha0730&show_icons=true&hide_border=true" height="160" alt="GitHub statistics" /> </p>
 
 ---
 
