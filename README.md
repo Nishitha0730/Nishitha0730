@@ -61,11 +61,6 @@ I am particularly interested in bare-metal programming, PCB Design, computer arc
 
 ---
 
-## GitHub Activity
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishitha0730&hide_border=true" alt="GitHub Contribution Graph" /> </p>
----
-
 ## Connect
 
 * GitHub: [@nishitha0730](https://github.com/nishitha0730)
