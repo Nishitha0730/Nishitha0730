@@ -2,8 +2,6 @@
 
 ### Electronics & Telecommunication Engineering Undergraduate
 
-**Embedded Systems | Digital Design **
-
 I am an Electronics and Telecommunication Engineering undergraduate with a strong interest in embedded systems, digital hardware design, and low-level programming.
 
 I am particularly interested in bare-metal programming, PCB Design, computer architecture, FPGA development, and the interaction between hardware and software.
@@ -64,7 +62,7 @@ I am particularly interested in bare-metal programming, PCB Design, computer arc
 ## Connect
 
 * GitHub: [@nishitha0730](https://github.com/nishitha0730)
-* LinkedIn: *Add your LinkedIn profile*
+* LinkedIn: *www.linkedin.com/in/nishitha-wihala*
 * HackerRank: [nishithawihala30](https://www.hackerrank.com/profile/nishithawihala30)
 * Email: [nishithawihala30@gmail.com](mailto:nishithawihala30@gmail.com)
 
